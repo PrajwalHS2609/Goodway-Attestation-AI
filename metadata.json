@@ -1,0 +1,6 @@
+{
+  "name": "Goodway Attestation",
+  "description": "Professional Certificate Attestation, Embassy Legalization, and MEA Apostille Services in Malleshwaram, Bengaluru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
